@@ -41,8 +41,8 @@ terminal-border: "0"
     width = 250
     height = 20
     show_text = true
-    font = "Terminus 14"
-    text_color = "#ffffff"
+    font = "Terminus 16"
+    text_color = "#FFFFFF"
     align = "center"
     text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
     bar_style = "progress_bar2_*.png"
