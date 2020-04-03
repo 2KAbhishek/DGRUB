@@ -1,0 +1,50 @@
+title-text: "abhishek@TravelMate"
+title-font: "DejaVu Sans Regular 48"
+title-color: "#CCCCCC"
+message-font: "Terminus 16"
+message-color: "#1A73E8"
+message-bg-color: "#000000"
+desktop-color: "#000000"
+desktop-image: "background.png"
+terminal-font: "Terminus 16"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
++ boot_menu {
+    left = 15%
+    width = 70%
+    top = 20%
+    height = 70%
+    item_height = 60
+    item_padding = 5
+    icon_width = 64
+    icon_height = 64
+    item_icon_space = 20
+    item_spacing = 5
+    item_font =  "Terminus 16"
+    item_color = "#EEEEEE"
+    selected_item_font = "Terminus 16"
+    selected_item_color = "#FFFFFF"
+    selected_item_pixmap_style = "select_*.png"
+    menu_pixmap_style = "menu_*.png"
+    scrollbar = false
+}
+
+
++ progress_bar {
+    id = "__timeout__"
+    left = 50%-125
+    top = 70%
+    width = 250
+    height = 20
+    show_text = true
+    font = "Terminus 14"
+    text_color = "#ffffff"
+    align = "center"
+    text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
+    bar_style = "progress_bar2_*.png"
+}
+
