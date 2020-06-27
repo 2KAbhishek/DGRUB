@@ -1,5 +1,3 @@
-<div align="center">
-
 # DGRUB
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/DGRUB?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 DGRUB (Dark Grand Reunified Boot-Loader) is a clean and minimal dark theme for GRUB.
 
-</div>
 
 ## Prerequisites
 
@@ -44,5 +41,4 @@ Edit `dgrub/theme.txt` file.
 
 Feel free to play around with other options too.
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
