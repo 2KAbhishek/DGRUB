@@ -10,12 +10,11 @@
 
 DGRUB (Dark Grand Reunified Boot-Loader) is a clean and minimal dark theme for GRUB.
 
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* You have installed the latest version of `grub`
+- You have installed the latest version of `grub`
 
 ## Installing DGRUB
 
@@ -37,8 +36,6 @@ GRUB_THEME="/usr/share/grub/themes/dgrub/themes.txt"
 
 Edit `dgrub/theme.txt` file.
 
->title-text = "username@hostname"
+> title-text = "username@hostname"
 
 Feel free to play around with other options too.
-
-
