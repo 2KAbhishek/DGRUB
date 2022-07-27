@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/DGRUB">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/DGRUB">DGRUB</a></h1>
 
 <a href="https://github.com/2KAbhishek/DGRUB/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/DGRUB?style=flat&color=eee&label="> </a>
